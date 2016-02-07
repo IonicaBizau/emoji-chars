@@ -1,7 +1,7 @@
 {
-  "name": "emoji-names",
+  "name": "emoji-chars",
   "version": "1.0.0",
-  "description": "Get the emoji names as array.",
+  "description": "Get the emoji chars as array.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/emoji-names.git"
+    "url": "git+ssh://git@github.com/IonicaBizau/emoji-chars.git"
   },
   "keywords": [
     "emoji",
-    "names",
+    "chars",
     "utility"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/emoji-names/issues"
+    "url": "https://github.com/IonicaBizau/emoji-chars/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-names#readme",
+  "homepage": "https://github.com/IonicaBizau/emoji-chars#readme",
   "dependencies": {
     "emoji-unicode-map": "^1.0.0"
   }
