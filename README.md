@@ -14,14 +14,14 @@ $ npm i --save emoji-names
 const emojis = require("emoji-names");
 
 console.log(emojis);
-// [ '100',
-//   '1234',
-//   'grinning',
-//   'grimacing',
-//   'grin',
-//   'joy',
+// [ '💯',
+//   '🔢',
+//   '😀',
+//   '😬',
+//   '😁',
+//   '😂',
 //   ...
-//   'hurtrealbad' ]
+//   '🇿🇼' ]
 ```
 
 ## How to contribute
