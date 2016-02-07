@@ -1,0 +1,30 @@
+{
+  "name": "emoji-names",
+  "version": "1.0.0",
+  "description": "Get the emoji names as array.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/emoji-names.git"
+  },
+  "keywords": [
+    "emoji",
+    "names",
+    "utility"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emoji-names/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emoji-names#readme",
+  "dependencies": {
+    "emoji-unicode-map": "^1.0.0"
+  }
+}
