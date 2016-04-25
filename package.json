@@ -1,6 +1,6 @@
 {
   "name": "emoji-chars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the emoji chars as array.",
   "main": "lib/index.js",
   "directories": {
@@ -26,5 +26,16 @@
   "homepage": "https://github.com/IonicaBizau/emoji-chars#readme",
   "dependencies": {
     "emoji-unicode-map": "^1.0.0"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
