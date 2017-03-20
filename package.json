@@ -1,6 +1,6 @@
 {
   "name": "emoji-chars",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get the emoji chars as array.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "chars",
     "utility"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-chars/issues"
@@ -31,12 +31,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
