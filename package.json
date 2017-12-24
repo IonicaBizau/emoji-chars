@@ -1,6 +1,6 @@
 {
   "name": "emoji-chars",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Get the emoji chars as array.",
   "main": "lib/index.js",
   "directories": {
