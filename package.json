@@ -1,6 +1,6 @@
 {
   "name": "emoji-chars",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Get the emoji chars as array.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
